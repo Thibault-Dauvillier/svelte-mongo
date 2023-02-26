@@ -13,7 +13,7 @@ cursors = [
     movies.find({"genre":"Crime"}), #trouve tout les films du genre "Crime"
     movies.find({"genre":{"$all":["Family","Animation"]}}), #trouve tout les films du genre "Family" et "Animation" (meme si il ya d'autres genres)
     movies.find({"cast":{"$size":10}}), #trouve tout les films où il y a exactement 10 acteurs
-    movies.find({"title.english":{"$regex":"The"}}), #trouve tout les films où le titre en anglais 
+    movies.find({"title.english":{"$regex":"The"}}), #trouve tout les films où le titre en anglais contient "The"
     movies.find({"director":65},{"title.english":1}), #pour tout les films du réals 65, ne retoure que leur titres en anglais
     persons.find({}), #trouve toutes les personnes
     persons.find({"dates.birthdate":{"$lt":"1950-01-01"}}), #trouve toutes les personnes nées avant le 01 janvier 1950
