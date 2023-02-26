@@ -15028,5 +15028,59 @@
         "character":"Norm Gunderson"
       }
     ]
+  },
+  {
+    "id":269,
+    "title":{
+      "french":"Titre en français",
+      "english":"Chariots of Fire"
+    },
+    "release-date":"1982-05-22",
+    "length":98,
+    "plot":{
+      "french":"Plot en français",
+      "english":"Two men, Harold Abrahams and Eric Liddell, race for the gold in the 1924 Olympics. While one runs for his faith, the other participates to leave prejudice behind."
+    },
+    "seen":true,
+    "rating":14,
+    "size":4.66,
+    "fav":"false",
+    "quality":"1080p",
+    "language":{
+      "original":"en",
+      "avaible-language":[
+        "en",
+        "fr"
+      ],
+      "avaible-subtitle":[
+        "en",
+        "fr"
+      ]
+    },
+    "genre":[
+      "Drama",
+      "Biograpgy"
+    ],
+    "director":[
+      800
+    ],
+    "cast":[
+      {
+        "id-person":801,
+        "character":"Harold Abrahams"
+      },
+      {
+        "id-person":802,
+        "character":"Eric Liddell"
+      },
+      {
+        "id-person":498,
+        "character":"Sam Mussabini"
+      },
+      {
+        "id-person":803,
+        "character":"Andrew Lindsay"
+      }
+    ]
   }
 ]

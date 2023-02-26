@@ -4473,7 +4473,8 @@
         "id": 498,
         "name": "Ian Holm",
         "dates": {
-            "birthdate": "1931-09-12"
+            "birthdate": "1931-09-12",
+            "deathdate": "2020-06-19"
         },
         "gender": "male",
         "country": "United Kingdom"
@@ -7211,5 +7212,44 @@
         },
         "gender": "male",
         "country": "United States"
+    },
+    {
+        "id": 800,
+        "name": "Hugh Hudson",
+        "dates": {
+            "birthdate": "1936-08-25",
+            "deathdate":"2023-02-10"
+        },
+        "gender": "male",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 801,
+        "name": "Ben Cross",
+        "dates": {
+            "birthdate": "1947-12-16",
+            "deathdate":"2020-08-18"
+        },
+        "gender": "male",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 802,
+        "name": "Ian Charleson",
+        "dates": {
+            "birthdate": "1949-08-11",
+            "deathdate":"1990-01-06"
+        },
+        "gender": "male",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 803,
+        "name": "Nigel Havers",
+        "dates": {
+            "birthdate": "1951-11-06"
+        },
+        "gender": "male",
+        "country": "United Kingdom"
     }
 ]
