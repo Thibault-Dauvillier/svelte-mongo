@@ -12,13 +12,15 @@ app.get("/hello-world", (req, res) => {
   })
 
 app.get("/NolanFincher",(req,res) => {
-    async function getOne (){
+    async function getData (){
         var client = new MongoClient("mongodb://localhost:27017/")
         var db = client.db('svelte-mongo');
         var movies = db.collection('movies');
         var cursor = await movies.find({"director":{"$in": [65,143]}}).toArray()
-        res.send(cursor)
+        return cursor
     }
-    getOne()
+    (async () => {
+        res.send(await getData())
+      })()
 })
 //use mongoJS wrapper to simplify and have more redabable mongo querries (like in compass)
