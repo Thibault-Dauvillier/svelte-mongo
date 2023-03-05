@@ -15082,5 +15082,162 @@
         "character":"Andrew Lindsay"
       }
     ]
+  },
+  {
+    "id":270,
+    "title":{
+      "french":"Un petit boulot",
+      "english":"Odd Job"
+    },
+    "release-date":"2016-08-31",
+    "length":107,
+    "plot":{
+      "french":"Jacques vit dans une petite ville belge touchée par la fermeture de l'usine dans laquelle beaucoup d'habitants travaillaient. Séparé de sa copine et endetté, il est abordé par un malfrat local qui lui propose un contrat : tuer sa femme.",
+      "english":"Odd Job is a 2016 French comedy film directed by Pascal Chaumeil"
+    },
+    "seen":true,
+    "rating":15,
+    "size":2.05,
+    "fav":"false",
+    "quality":"1080p",
+    "language":{
+      "original":"fr",
+      "avaible-language":[
+        "fr"
+      ],
+      "avaible-subtitle":[
+        "fr"
+      ]
+    },
+    "genre":[
+      "Crime",
+      "Comedy"
+    ],
+    "director":[
+      804
+    ],
+    "cast":[
+      {
+        "id-person":805,
+        "character":"Jacques"
+      },
+      {
+        "id-person":806,
+        "character":"Gardot"
+      },
+      {
+        "id-person":807,
+        "character":"Anita"
+      }
+    ]
+  },
+  {
+    "id":271,
+    "title":{
+      "french":"La French",
+      "english":"The Connection"
+    },
+    "release-date":"2014-09-10",
+    "length":135,
+    "plot":{
+      "french":"Marseille. 1975. Pierre Michel, jeune magistrat venu de Metz avec femme et enfants, est nommé juge du grand banditisme. Il décide de s’attaquer à la French Connection, organisation mafieuse qui exporte l’héroïne dans le monde entier. Mais il va rapidement comprendre que, pour obtenir des résultats, il doit changer ses méthodes.",
+      "english":"In 1970s France, dedicated cop Pierre Michel (Jean Dujardin) risks his life to crack a heroin ring masterminded by powerful mobster Gaëtan Zampa (Gilles Lellouche)."
+    },
+    "seen":true,
+    "rating":13.5,
+    "size":2.55,
+    "fav":"false",
+    "quality":"1080p",
+    "language":{
+      "original":"fr",
+      "avaible-language":[
+        "fr"
+      ],
+      "avaible-subtitle":[
+        "fr"
+      ]
+    },
+    "genre":[
+      "Crime",
+      "Action",
+      "Biography"
+    ],
+    "director":[
+      808
+    ],
+    "cast":[
+      {
+        "id-person":710,
+        "character":"Pierre Michel"
+      },
+      {
+        "id-person":533,
+        "character":"Tany Zampa"
+      },
+      {
+        "id-person":809,
+        "character":"Christiane Zampa"
+      },
+      {
+        "id-person":810,
+        "character":"Le Fou"
+      }
+    ]
+  },
+  {
+    "id":272,
+    "title":{
+      "french":"BAC Nord",
+      "english":"The Stronghold"
+    },
+    "release-date":"2020-10-16",
+    "length":135,
+    "plot":{
+      "french":"Poussée par sa hiérarchie, la BAC Nord, brigade de terrain, cherche sans cesse à améliorer ses résultats. Dans un secteur à haut risque, les flics adaptent leurs méthodes, franchissant parfois la ligne jaune. Jusqu'au jour où le système judiciaire se retourne contre eux…",
+      "english":"Tired of the small-time grind, three Marseille cops get a chance to bust a major drug network. However, lines blur when a key informant makes a big ask."
+    },
+    "seen":true,
+    "rating":16.5,
+    "size":3.63,
+    "fav":"false",
+    "quality":"2160p",
+    "language":{
+      "original":"fr",
+      "avaible-language":[
+        "fr"
+      ],
+      "avaible-subtitle":[
+        "fr"
+      ]
+    },
+    "genre":[
+      "Crime",
+      "Action"
+    ],
+    "director":[
+      808
+    ],
+    "cast":[
+      {
+        "id-person":533,
+        "character":"Grégory Cerva"
+      },
+      {
+        "id-person":679,
+        "character":"Antoine"
+      },
+      {
+        "id-person":811,
+        "character":"Yassine"
+      },
+      {
+        "id-person":812,
+        "character":"Nora"
+      },
+      {
+        "id-person":813,
+        "character":"Amel"
+      }
+    ]
   }
 ]

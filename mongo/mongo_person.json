@@ -7251,5 +7251,97 @@
         },
         "gender": "male",
         "country": "United Kingdom"
+    },
+    {
+        "id": 804,
+        "name": "Pascal Chaumeil",
+        "dates": {
+            "birthdate": "1961-02-09",
+            "deathdate": "2015-08-27"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 805,
+        "name": "Romain Duris",
+        "dates": {
+            "birthdate": "1974-05-28"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 806,
+        "name": "Michel Blanc",
+        "dates": {
+            "birthdate": "1952-04-16"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 807,
+        "name": "Alice Belaidi",
+        "dates": {
+            "birthdate": "1987-03-18"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 808,
+        "name": "Cédric Jimenez",
+        "dates": {
+            "birthdate": "1976-06-26"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 809,
+        "name": "Mélanie Doutey",
+        "dates": {
+            "birthdate": "1978-11-22"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 810,
+        "name": "Benoît Magimel",
+        "dates": {
+            "birthdate": "1974-05-11"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 811,
+        "name": "Karim Leklou",
+        "dates": {
+            "birthdate": "1982-06-20"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 812,
+        "name": "Adèle Exarchopoulos",
+        "dates": {
+            "birthdate": "1993-11-22"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 813,
+        "name": "Kenza Fortas",
+        "dates": {
+            "birthdate": "2001-01-26"
+        },
+        "gender": "female",
+        "country": "France"
     }
+    
 ]
