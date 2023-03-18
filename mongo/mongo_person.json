@@ -7342,6 +7342,78 @@
         },
         "gender": "female",
         "country": "France"
+    },
+    {
+        "id": 814,
+        "name": "Laurent Lafitte",
+        "dates": {
+            "birthdate": "1973-08-22"
+        },
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "id": 815,
+        "name": "Louise Monot",
+        "dates": {
+            "birthdate": "1981-12-30"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 816,
+        "name": "Valérie Bonneton",
+        "dates": {
+            "birthdate": "1970-04-05"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 817,
+        "name": "Anne Marivin",
+        "dates": {
+            "birthdate": "1974-01-23"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 818,
+        "name": "Pascale Arbillot",
+        "dates": {
+            "birthdate": "1970-04-17"
+        },
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 819,
+        "name": "Ryan Coogler",
+        "dates": {
+            "birthdate": "1986-058-23"
+        },
+        "gender": "male",
+        "country": "United States"
+    },
+    {
+        "id": 820,
+        "name": "Steven Caple Jr.",
+        "dates": {
+            "birthdate": "1988-02-16"
+        },
+        "gender": "male",
+        "country": "United States"
+    },
+    {
+        "id": 821,
+        "name": "Dolph Lundgren",
+        "dates": {
+            "birthdate": "1957-11-03"
+        },
+        "gender": "male",
+        "country": "Sweden"
     }
     
 ]
